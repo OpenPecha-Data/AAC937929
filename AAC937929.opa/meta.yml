@@ -1,0 +1,19 @@
+id: AAC937929
+title: 'Transference: Enlightenment Without Meditation (root text)'
+type: translation
+pechas:
+- IBDBF614D
+- I5F85F94C
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:44:46.327531
+  last_modified_at: 2023-01-04 12:44:46.327551
+  collections:
+  - Jigme Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IBDBF614D/7FDD: '9422'
+  I5F85F94C/4CCD: '9422'
